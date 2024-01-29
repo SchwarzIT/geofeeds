@@ -1,0 +1,29 @@
+# Schwarz Geofeed
+# This feed is encoded in RFC 8805 format.
+# Publication date: 2024-01-29
+#
+# The data included in this feed may be used only
+# for improving the accuracy of Geo:IP lookups 
+#
+# Finding and using Geofeed Data: https://datatracker.ietf.org/doc/rfc9092/
+# File format: https://datatracker.ietf.org/doc/html/rfc8805
+
+45.83.160.0/22,DE,DE-BW,Heilbronn,
+45.129.40.0/21,DE,DE-BW,Heilbronn,
+45.135.244.0/22,DE,DE-BW,Heilbronn,
+45.137.172.0/22,AT,AT-4,Ostermiething,
+45.141.72.0/22,,,,
+45.142.4.0/22,DE,DE-BW,Heilbronn,
+185.86.188.0/22,DE,DE-BW,Heilbronn,
+185.86.191.0/24,AT,AT-4,Ostermiething,
+185.124.192.0/22,DE,DE-BW,Heilbronn,
+188.34.64.0/18,,,,
+192.149.246.0/23,,,,
+192.214.160.0/19,,,,
+193.19.128.0/22,DE,DE-BW,Heilbronn,
+193.148.160.0/19,DE,DE-BW,Heilbronn,
+213.17.0.0/18,,,,
+2604:a6c0::/32,,,,
+2a05:b540::/29,DE,DE-BW,Heilbronn,
+2a06:b500::/29,,,,
+
