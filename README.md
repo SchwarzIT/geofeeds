@@ -1,6 +1,6 @@
 # Schwarz Geofeed
 
-**Publication date: 2024-01-30**
+**Publication date: 2024-02-04**
 
 This feed is encoded in RFC 8805 format.
 
