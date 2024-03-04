@@ -19,6 +19,8 @@
 192.214.160.0/19,,,,
 193.19.128.0/22,DE,DE-BW,Heilbronn,
 193.148.160.0/19,DE,DE-BW,Heilbronn,
+193.148.182.0/23,DE,DE-BW,Heilbronn,
+193.148.184.0/23,AT,AT-4,Ostermiething,
 213.17.0.0/18,,,,
 2604:a6c0::/32,,,,
 2a05:b540::/29,DE,DE-BW,Heilbronn,
